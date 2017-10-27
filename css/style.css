@@ -1,0 +1,8 @@
+body {
+  margin: 10px;
+}
+
+.my-game {
+  border: 5px solid deeppink;
+  box-sizing: border-box;
+}
